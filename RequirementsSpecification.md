@@ -21,3 +21,8 @@ Our target audience for FlowerDrop includes everybody from tech-savvy, city resi
 ## Scope Of The Project
 
 In this project, we will be focusing on delivering a working MVP with functioning search, display, purchase, and shipping features, then deploying the application as we establish a development pipeline to continually upgrade the project and project features. While we aim to deliver a comprehensive solution, it is important to note that certain aspects may be prioritized or refined based on feedback and evolving requirements.
+
+## Project Team
+
+- Guillermo Hernandez-Lopez (Lead Designer/Developer)
+- Perla Ruby Talamantes Bonilla (Brand Owner)
