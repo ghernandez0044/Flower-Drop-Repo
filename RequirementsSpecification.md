@@ -13,3 +13,7 @@ FlowerDrop is envisioned as an e-commerce platform and our main objectives with 
 3. Establish Floral Business Brand
 4. Establish Experience Tailored To Users
 5. Provide Personalization Features
+
+## Target Audience
+
+Our target audience for FlowerDrop includes everybody from tech-savvy, city residents, to business owners, to social influencers, all the way to the every day user. By understanding the needs and preferences of our target audience, we can tailor the website's features and content to provide a seamless and engaging user experience.
