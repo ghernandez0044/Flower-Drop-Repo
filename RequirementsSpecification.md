@@ -26,3 +26,5 @@ In this project, we will be focusing on delivering a working MVP with functionin
 
 - Guillermo Hernandez-Lopez (Lead Designer/Developer)
 - Perla Ruby Talamantes Bonilla (Brand Owner)
+
+  **Thank you for your support and enthusiasm for this exciting project!**
